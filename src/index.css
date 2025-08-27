@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pb-primary: #4B1C58; /* темно‑фіолетовий */
+  --pb-accent:  #8C1D2E; /* темно‑червоний  */
+  --pb-light:   #F6F5F8;
+  --pb-dark:    #0F0A12;
+  --pb-text:    #1E1A22;
+}
